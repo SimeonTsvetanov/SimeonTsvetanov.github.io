@@ -8,7 +8,7 @@
       "url": "https://simeontsvetanov.github.io/teamsync-random-team-generator/",
       "repo": "https://github.com/SimeonTsvetanov/teamsync-random-team-generator",
       "type": "standard",
-      "status": "live (v1.0.0 release pending)",
+      "status": "live v1.0.0",
       "forge": "0.16.0",
       "started": "2026-11-05",
       "notes": "First app built through the forge; replaces the old SimeonTsvetanov/TeamSync."
