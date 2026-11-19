@@ -24,6 +24,18 @@
       "forge": "",
       "started": "",
       "notes": "Uses autoUpdate SW; migrate to the template with the hosted service layer."
+    },
+    {
+      "id": "gg-counter",
+      "name": "GG Counter",
+      "tagline": "Score tracker for board-game nights",
+      "url": "https://simeontsvetanov.github.io/GG-counter/",
+      "repo": "https://github.com/SimeonTsvetanov/GG-counter",
+      "type": "standard",
+      "status": "live — migrating into the forge",
+      "forge": "",
+      "started": "2026-11-19",
+      "notes": "First /migrate-app case. Level 2 (React stays). URL path /GG-counter/ differs from the app id by decision."
     }
   ]
 }
